@@ -96,8 +96,20 @@ textarea.FontSetImportant{
 }
 
 
-.katex {
+.katex,
+.katex-html,
+.katex-mathml,
+math,
+.faliz-math-ltr,
+bdi[dir="ltr"] {
     direction: ltr !important;
+    text-align: left !important;
+    unicode-bidi: isolate !important;
+}
+
+sup,
+sub {
+    unicode-bidi: isolate !important;
 }
 
 .FontSetGPT,
