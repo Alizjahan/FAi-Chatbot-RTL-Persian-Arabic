@@ -10,7 +10,7 @@
 [![Release](https://img.shields.io/badge/Release-v1.1.0-0D9DF8?style=flat-square&logo=github)](https://github.com/Alizjahan/FAi-Chatbot-RTL-Persian-Arabic)
 [![Manifest](https://img.shields.io/badge/Manifest-V3-34C6BF?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/Alizjahan/FAi-Chatbot-RTL-Persian-Arabic)
 [![License](https://img.shields.io/badge/License-MIT-89DB76?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Maintainer](https://img.shields.io/badge/Maintainer-Alizjahan-0F6FFA?style=flat-square)](https://github.com/Alizjahan)
+[![Maintainer](https://img.shields.io/badge/Maintainer-Alizjahan-0F6FFA?style=flat-square&logo=github)](https://github.com/Alizjahan)
 
 Read and write smoothly in Persian and Arabic inside modern AI conversational interfaces without affecting code blocks, math formulas, or markdown structures.
 
@@ -130,7 +130,7 @@ Accessible via the popup interface and synchronized through `chrome.storage.sync
 
 ---
 
-## Author & Maintainer
+## 👨‍💻 Author & Maintainer
 
 Developed with ❤️ by **Aliz ([@Alizjahan](https://github.com/Alizjahan))**
 - GitHub: [@Alizjahan](https://github.com/Alizjahan)
@@ -138,6 +138,6 @@ Developed with ❤️ by **Aliz ([@Alizjahan](https://github.com/Alizjahan))**
 
 ---
 
-## License
+## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
