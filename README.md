@@ -130,11 +130,10 @@ Accessible via the popup interface and synchronized through `chrome.storage.sync
 
 ---
 
-## 👨‍💻 Author & Maintainer
+## Maintainer
 
-Developed with ❤️ by **Aliz ([@Alizjahan](https://github.com/Alizjahan))**
-- GitHub: [@Alizjahan](https://github.com/Alizjahan)
-- Telegram: [@Alizjahan](https://t.me/Alizjahan)
+- **GitHub:** [@Alizjahan](https://github.com/Alizjahan)
+- **Telegram:** [@Alizjahan](https://t.me/Alizjahan)
 
 ---
 
